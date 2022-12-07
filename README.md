@@ -1,9 +1,9 @@
 # GameRunMellow
-<img width="80%" src="user-images.githubusercontent.com/82160709/206208451-b035ad29-4985-437f-9c1f-00fa0b5ac660.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/82160709/206210478-c984be3f-abe1-4a0d-bac8-c915b3c6e612.gif"/>
 https://drive.google.com/file/d/1fVszjBBMxfTeFR8zHB2PplZpOo7ra13_/view?usp=sharing
 
 <p align="center">
-  <img src="user-images.githubusercontent.com/82160709/206208451-b035ad29-4985-437f-9c1f-00fa0b5ac660.gif">
+  <img src="https://user-images.githubusercontent.com/82160709/206210478-c984be3f-abe1-4a0d-bac8-c915b3c6e612.gif">
 </p>
 
 
