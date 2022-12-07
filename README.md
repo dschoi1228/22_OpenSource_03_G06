@@ -1,6 +1,6 @@
 # GameRunMellow
 <img width="80%" src="user-images.githubusercontent.com/82160709/206208451-b035ad29-4985-437f-9c1f-00fa0b5ac660.gif"/>
-
+https://drive.google.com/file/d/1fVszjBBMxfTeFR8zHB2PplZpOo7ra13_/view?usp=sharing
 
 1. 프로젝트의 목적 및 용도
 
